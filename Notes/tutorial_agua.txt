@@ -1,0 +1,12 @@
+TUTORIAL DE AGUA
+
+Explicar o sistema de pontos
+Fazer o sistema de pontos
+Adicionar interação com o player
+Adicionar animation curve
+Explicar o shader
+Adicionar o shader
+Mostrar as otimizações
+	-Não renderizar quanto não está na câmera
+	-Não computar um ponto que não ta perto o suficiente do player e que esteja parado
+	-Retirar comparações e if statements do shader
